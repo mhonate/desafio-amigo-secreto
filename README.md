@@ -5,6 +5,7 @@
 <li>Creación de repositorio Github</li>
 <li>descarga de respositorio usando git clone para trabajar en local</li>
 <li>Prueba de conexión</li>
+<li>Creación de arreglo amigos</li>
 
 
 
