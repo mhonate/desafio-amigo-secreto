@@ -22,11 +22,12 @@
 
 ***
 
-`Tecnologías y herramientas utilizadas`
--HTML
--CSS
--Javascript
--VSCode
+`Tecnologías y herramientas utilizadas`:
+<li>HTML</li>
+<li>CSS</li>
+<li>Javascript</li>
+<li>VSCode</li>
+
 
 👨🏻‍💻 Creado por Marcelo Oñate
 
