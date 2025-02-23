@@ -1,6 +1,4 @@
-<p align="left">
-   <img src="/desafio-amigo-secreto/assets/vista-sitio.png">
-   </p>
+![alt text](image.png)
 💻 
 
 
