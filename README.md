@@ -22,7 +22,11 @@
 
 ***
 
-
+`Tecnologías y herramientas utilizadas`
+-HTML
+-CSS
+-Javascript
+-VSCode
 
 👨🏻‍💻 Creado por Marcelo Oñate
 
