@@ -1,3 +1,10 @@
+<p align="left">
+   <img src="/desafio-amigo-secreto/assets/vista-sitio.png">
+   </p>
+💻 
+
+
+
 <h1 align="center"> Proceso de diseño del Desafio </h1>
 
 <p>Acciones ejecutadas</p>
@@ -12,7 +19,10 @@
 <li>Validar el campo</li>
 <li>Agregar y actualizar el array de amigos</li>
 <li>Agregar y actualizar el array de amigos</li>
-<l>Sortear amigos</l>
+<li>Sortear amigos</li>
+<li>Creado por Marcelo Oñate</li>
+
+
 
 
 
